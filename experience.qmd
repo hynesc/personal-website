@@ -2,7 +2,7 @@
 title: "Experience"
 ---
 
-<i class="fa-solid fa-file-pdf"></i> [View my Resume (PDF)](resume.pdf)
+<i class="fa-solid fa-file-pdf"></i> [View my Resume (PDF)](assets/resume.pdf)
 
 ## Professional Experience
 
