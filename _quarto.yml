@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Christopher Hynes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/christopher-hynes
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christopher-hynes
+
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; 2025, Christopher Hynes"
+
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true

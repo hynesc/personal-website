@@ -1,0 +1,11 @@
+---
+title: "Welcome"
+---
+
+## Hi, I'm Chris
+
+I'm a master’s student in computer science at Georgia Tech with a background in statistics and economics. I'm interested in data science, machine learning, and statistical modeling.
+
+I work with Python, R, and other tools to make sense of data and share findings clearly.
+
+This site showcases some of my projects.
