@@ -8,7 +8,7 @@ about:
       href: https://linkedin.com/in/christopher-hynes
     - icon: github
       text: Github
-      href: https://github.com/christopher-hynes
+      href: https://github.com/hynesc
 ---
 
 ## My Background
