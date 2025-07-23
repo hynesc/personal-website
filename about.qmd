@@ -4,7 +4,7 @@ title: "About Me"
 
 <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/christopher-hynes) |
 <i class="fa-brands fa-github"></i> [GitHub](https://github.com/hynesc) |
-<i class="fa-solid fa-file-pdf"></i> [Resume](resume.pdf)
+<i class="fa-solid fa-file-pdf"></i> [Resume](assets/resume.pdf)
 
 ## My Background
 
@@ -14,7 +14,7 @@ Over time, I became more interested in the data side of things — the tools, te
 
 I’m especially interested in using data to answer open-ended questions, explore patterns, and support better decision-making — whether in tech, research, or policy. I work primarily with Python and R to analyze data, build models, and communicate insights clearly and effectively.
 
-Outside of academics, I’m curious about global economic systems and public policy, and how data can help us understand and improve them. I also enjoy playing guitar (and trying to play a few other instruments), backpacking, and studying foreign languages. To date, I've traveled to 32 countries. I’ve learned Spanish and German, and I’m currently learning French.
+Outside of academics, I’m curious about global economic systems and public policy, and how data can help us understand and improve them. I also enjoy playing guitar (and trying to play a few other instruments), backpacking, and studying foreign languages. To date, I've traveled to 32 countries ([view the map here](assets/been.jpeg). I’ve learned Spanish and German, and I’m currently learning French.
 
 This site highlights some of the projects I’ve worked on during grad school and beyond.
 
