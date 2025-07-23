@@ -1,0 +1,46 @@
+---
+title: "About Me"
+about:
+  template: trestles # A nice two-column layout
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/christopher-hynes
+    - icon: github
+      text: Github
+      href: https://github.com/christopher-hynes
+---
+
+## More About Me
+
+I’m a master’s student in computer science at Georgia Tech. I earned my bachelor’s degree in economics and statistics from the University of South Carolina Honors College, where I focused on economic research.
+
+Over time, I became more interested in the data side of things — the tools, techniques, and systems that make analysis possible — which led me to pursue graduate study in computer science to deepen my technical expertise.
+
+I’m especially interested in using data to answer open-ended questions, explore patterns, and support better decision-making — whether in tech, research, or policy. I work primarily with Python and R to analyze data, build models, and communicate insights clearly and effectively.
+
+Outside of academics, I’m curious about global economic systems and public policy, and how data can help us understand and improve them. I also enjoy playing guitar (and trying to play a few other instruments), and studying foreign languages. I’ve learned Spanish and German, and I’m currently learning French.
+
+This site highlights some of the projects I’ve worked on during grad school and beyond.
+
+[View my Resume (PDF)](resume.pdf) ---
+
+## Technical Skills
+
+Here is a summary of my technical skills:
+
+**Languages & Databases**
+* Python
+* R
+* SQL
+
+**Frameworks & Libraries**
+* Pandas, NumPy, Scikit-learn
+* PyTorch
+* Matplotlib, Seaborn
+* tidyverse
+
+**Tools & Platforms**
+* Git & GitHub
+* Google Colab
+* Figma
