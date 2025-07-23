@@ -18,10 +18,6 @@ Outside of academics, I’m curious about global economic systems and public pol
 
 This site highlights some of the projects I’ve worked on during grad school and beyond.
 
-[View my Resume (PDF)](resume.pdf)
-
----
-
 ## Technical Skills
 
 Here is a summary of my technical skills:
