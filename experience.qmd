@@ -1,6 +1,8 @@
 ---
 title: "Experience"
 format: html
+  html:
+    title-block: false
 ---
 
 ## Experience
