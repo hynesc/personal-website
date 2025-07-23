@@ -1,11 +1,7 @@
 ---
 title: "Experience"
 format: html
-  html:
-    title-block: false
 ---
-
-## Experience
 
 ### Data Analyst Intern
 **GreyNoise Intelligence** — Finance and Operations Team
