@@ -15,6 +15,8 @@ website:
       - href: about.qmd
         text: About
     right:
+      - href: assets/resume.pdf
+        text: Resume  
       - icon: github
         href: https://github.com/christopher-hynes
       - icon: linkedin
