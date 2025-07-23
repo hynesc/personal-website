@@ -7,63 +7,63 @@ format: html
 
 ## Experience
 
-### Data Analyst Intern  
-**GreyNoise Intelligence** — Finance and Operations Team  
-*Jun 2023 – Sep 2023 | Washington, DC*  
-- Automated Excel error checks across multiple datasets to identify inconsistencies and improve data quality.  
-- Rebuilt and partially automated NAICS-to-industry mapping to enhance classification relevance.  
+### Data Analyst Intern
+**GreyNoise Intelligence** — Finance and Operations Team
+*Jun 2023 – Sep 2023 | Washington, DC*
+- Automated Excel error checks across multiple datasets to identify inconsistencies and improve data quality.
+- Rebuilt and partially automated NAICS-to-industry mapping to enhance classification relevance.
 - Developed automated financial models in Excel to streamline deal calculations for the CX team, including handling mid-term customer upgrades and co-term subscription merging.
 - Partially automated company vendor and transaction breakdown in Excel, enabling detailed spend analysis by vendor, category, and month from year-specific data.
-- Created a cash investment tracker integrating financial institution data to forecast returns for monthly financial planning.  
+- Created a cash investment tracker integrating financial institution data to forecast returns for monthly financial planning.
 - Conducted customer churn and point-of-origin analysis using R, identifying key variables influencing retention and lead conversion.
 
 ---
 
-### Undergraduate Research Assistant  
-**Darla Moore School of Business, Division of Research**  
-*May 2021 – Oct 2021 | Columbia, SC*  
-- Conducted literature review on spatial segregation and neighboring effects in Charleston neighborhoods.  
-- Collected and cleaned economic, social, and demographic data on metropolitan statistical areas.  
-- Computed location quotients and ran regression analyses in Stata and R to identify factors driving STEM/knowledge worker agglomeration.  
+### Undergraduate Research Assistant
+**Darla Moore School of Business, Division of Research**
+*May 2021 – Oct 2021 | Columbia, SC*
+- Conducted literature review on spatial segregation and neighboring effects in Charleston neighborhoods.
+- Collected and cleaned economic, social, and demographic data on metropolitan statistical areas.
+- Computed location quotients and ran regression analyses in Stata and R to identify factors driving STEM/knowledge worker agglomeration.
 - Redesigned course materials to improve accessibility in compliance with university standards.
 
 ---
 
-### Undergraduate Research Assistant  
-**University of South Carolina, Department of Economics**  
-*Jan 2020 – Jan 2021 | Columbia, SC*  
+### Undergraduate Research Assistant
+**University of South Carolina, Department of Economics**
+*Jan 2020 – Jan 2021 | Columbia, SC*
 - Digitized and organized CDC vital statistics to support analysis of racial disparities in birth outcomes post-hospital desegregation.
 
 ---
 
 ## Awards & Honors
 
-- **Stephen D. Durham Award** (2022) — Top senior statistics student for exceptional academic performance.  
-- **Phi Beta Kappa Honor Society** (2022) — Prestigious academic honor society in liberal arts and sciences.  
-- **Palmetto Fellows Scholarship** (2018–2022) — Competitive South Carolina state scholarship for exemplary academic achievement.  
+- **Stephen D. Durham Award** (2022) — Top senior statistics student for exceptional academic performance.
+- **Phi Beta Kappa Honor Society** (2022) — Prestigious academic honor society in liberal arts and sciences.
+- **Palmetto Fellows Scholarship** (2018–2022) — Competitive South Carolina state scholarship for exemplary academic achievement.
 - **Presidential Scholars Award** (2018–2022) — Merit-based scholarship awarded to Palmetto Fellows with high standardized test scores.
 
 ---
 
 ## Technical Skills
 
-**Languages & Databases**  
-Proficient in: Python, R, SQL  
+**Languages & Databases**
+Proficient in: Python, R, SQL
 Familiar with: Java, Stata, SAS
 
 **Libraries**  
-tidyverse, NumPy, pandas, matplotlib, PyTorch  
+tidyverse, NumPy, pandas, matplotlib, PyTorch, Streamlit
 
-**Frameworks & Big Data**  
-Familiar with: PySpark, Hadoop (Pig, Hive)  
+**Frameworks & Big Data**
+Familiar with: PySpark, Hadoop (Pig, Hive)
 
-**Developer Tools & Platforms**  
-Git, Markdown, Google Colab, Jupyter Notebook  
+**Developer Tools & Platforms**
+Git, Markdown, Google Colab, Jupyter Notebook
 
-**Software & Visualization Tools**  
+**Software & Visualization Tools**
 Microsoft Office Suite
-Familiar with: Tableau, Figma  
+Familiar with: Tableau, Figma
 
-**Data Science & Machine Learning**  
-Statistical analysis, hypothesis testing, A/B testing, forecasting, and prediction  
+**Data Science & Machine Learning**
+Statistical analysis, hypothesis testing, A/B testing, forecasting, and prediction
 Supervised and unsupervised learning: linear and logistic regression, decision trees, KNN, SVM, clustering, neural networks
