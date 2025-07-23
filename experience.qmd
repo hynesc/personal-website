@@ -3,7 +3,9 @@ title: "Experience"
 ---
 
 **Data Analyst Intern**
+
 **GreyNoise Intelligence** — Finance and Operations Team
+
 *Jun 2023 – Sep 2023 | Washington, DC*
 
 - Automated Excel error checks across multiple datasets to identify inconsistencies and improve data quality.
@@ -14,7 +16,9 @@ title: "Experience"
 - Conducted customer churn and point-of-origin analysis using R, identifying key variables influencing retention and lead conversion.
 
 **Undergraduate Research Assistant**
+
 **Darla Moore School of Business, Division of Research**
+
 *May 2021 – Oct 2021 | Columbia, SC*
 
 - Conducted literature review on spatial segregation and neighboring effects in Charleston neighborhoods.
@@ -23,8 +27,10 @@ title: "Experience"
 - Redesigned course materials to improve accessibility in compliance with university standards.
 
 **Undergraduate Research Assistant**
+
 **University of South Carolina, Department of Economics**
-*Jan 2020 – Jan 2021 | [cite_start]Columbia, SC*
+
+*Jan 2020 – Jan 2021 | Columbia, SC*
 
 - Digitized and organized CDC vital statistics to support analysis of racial disparities in birth outcomes post-hospital desegregation.
 
