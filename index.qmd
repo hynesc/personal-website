@@ -1,8 +1,6 @@
 ---
-title: "Welcome"
+title: "Hi, I'm Chris"
 ---
-
-## Hi, I'm Chris
 
 I'm a master’s student in computer science at Georgia Tech with a background in statistics and economics. I'm interested in data science, machine learning, and statistical modeling.
 
