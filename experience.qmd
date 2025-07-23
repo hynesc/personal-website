@@ -4,8 +4,6 @@ title: "Experience"
 
 <i class="fa-solid fa-file-pdf"></i> [View my Resume (PDF)](resume.pdf)
 
----
-
 **Data Analyst Intern**
 
 **GreyNoise Intelligence** — Finance and Operations Team
