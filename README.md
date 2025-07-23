@@ -63,7 +63,7 @@ Make sure:
 
 ---
 
-## ✍Customization
+## Customization
 
 - Edit `.qmd` files to update content
 - Tweak `_quarto.yml` to adjust layout, navbar, and theme
