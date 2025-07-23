@@ -2,8 +2,6 @@
 title: "About Me"
 ---
 
-[{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/in/christopher-hynes) | [{{< fa brands github >}} GitHub](https://github.com/hynesc) | [{{< fa solid file-pdf >}} Resume](resume.pdf)
-
 <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/christopher-hynes) |
 <i class="fa-brands fa-github"></i> [GitHub](https://github.com/hynesc) |
 <i class="fa-solid fa-file-pdf"></i> [Resume](resume.pdf)
