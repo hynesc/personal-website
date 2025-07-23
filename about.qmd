@@ -45,6 +45,7 @@ Here is a summary of my technical skills:
 * tidyverse
 
 **Tools & Platforms**
+
 * Git & GitHub
 * Google Colab
 * Figma
