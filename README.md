@@ -4,8 +4,6 @@ This is the source code for my personal website, built with [Quarto](https://qua
 
 **Live site:** [https://chynes.org](https://chynes.org)
 
----
-
 ## Features
 
 - Powered by [Quarto](https://quarto.org/) for modern, reproducible publishing
@@ -13,8 +11,6 @@ This is the source code for my personal website, built with [Quarto](https://qua
 - Compatible with data science workflows (supports `.ipynb`, embedded code, plots, and interactive visualizations)
 - Clean, responsive, and mobile-friendly design
 - Version-controlled and easy to maintain
-
----
 
 ## Getting Started
 
@@ -35,8 +31,6 @@ To render the site manually:
 quarto render
 ```
 
----
-
 ## Deployment
 
 Deployment is handled via **GitHub Actions**. On every push to the `main` branch, the site is rendered and deployed to GitHub Pages.
@@ -45,9 +39,7 @@ Make sure:
 - GitHub Pages is set to deploy from the `/docs` branch.
 - Your GitHub Actions workflow is set up correctly (e.g., `.github/workflows/publish.yml`).
 
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 /
@@ -60,8 +52,6 @@ Make sure:
 ├── .github/workflows/  # GitHub Actions workflow files
 └── README.md           # You're here!
 ```
-
----
 
 ## Customization
 
