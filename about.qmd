@@ -11,7 +11,7 @@ about:
       href: https://github.com/christopher-hynes
 ---
 
-## More About Me
+## My Background
 
 I’m a master’s student in computer science at Georgia Tech. I earned my bachelor’s degree in economics and statistics from the University of South Carolina Honors College, where I focused on economic research.
 
