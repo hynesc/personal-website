@@ -4,6 +4,12 @@ title: "Experience"
 
 <i class="fa-solid fa-file-pdf"></i> [View my Resume (PDF)](resume.pdf)
 
+<div style="margin-bottom: 1rem;">
+  <a href="resume.pdf" target="_blank" style="text-decoration: none; padding: 0.4em 0.8em; background-color: #007acc; color: white; border-radius: 5px; font-size: 0.95rem;">
+    <i class="fa-solid fa-file-pdf"></i> View my Resume (PDF)
+  </a>
+</div>
+
 ---
 
 **Data Analyst Intern**
