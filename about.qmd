@@ -16,7 +16,7 @@ I’m interested in using data to answer open-ended questions, explore patterns,
 
 Outside of academics, I enjoy playing guitar (and trying to play a few other instruments), backpacking, and studying foreign languages. To date, I've traveled to 32 countries. I’ve learned Spanish and German, and I’m currently learning French.
 
-([Countries I've visited: a growing map!](assets/been.jpeg))
+!([Countries I've visited: a growing map!](assets/been.jpeg))
 
 This site highlights some of the projects I’ve worked on during grad school and beyond.
 
