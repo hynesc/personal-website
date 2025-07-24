@@ -6,6 +6,8 @@ categories: [Quarto, Web Development, GitHub Pages]
 image: thumbnail.png
 ---
 
+An overview of the tools used to build this portfolio site from scratch, including Quarto for content generation and GitHub Actions for automated deployment.
+
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/hynesc.github.io/)
 
 ## Project Overview
