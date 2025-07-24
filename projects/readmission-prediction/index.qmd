@@ -59,6 +59,7 @@ Unplanned hospital readmissions are a major burden on healthcare systems, leadin
 ## Core Objectives
 
 This study was guided by three main hypotheses:
+
 1.  **Replication & Validation:** Can we reproduce the performance of the Theano-based CONTENT model using a modern PyTorch implementation on the provided synthetic dataset?
 2.  **Statistical Significance:** Are the performance gains of CONTENT over the baseline GRU, as reported by the authors, statistically significant?
 3.  **Performance Extension:** Can we improve the model's predictive performance by implementing a systematic hyperparameter tuning process (grid search), which was not detailed in the original paper?
@@ -68,7 +69,9 @@ This study was guided by three main hypotheses:
 ## Methodology
 
 ### Dataset
+
 The project uses the synthetic dataset published by the original authors, which was generated to mimic a real-world EHR dataset of 5,393 Congestive Heart Failure (CHF) patients.
+
 -   **Size:** 3,000 synthetic patients, 239,936 total visits.
 -   **Features:** 618 unique clinical event codes (diagnoses, medications, etc.).
 -   **Target:** Binary label for each visit indicating if a 30-day readmission occurred.
