@@ -6,6 +6,8 @@ categories: [Python, Machine Learning, Predictive Modeling, Web App]
 image: thumbnail.png
 ---
 
+A Python-based machine learning application deployed with Streamlit to predict customer churn in real-time for GreyNoise Intelligence.
+
 <i class="fa-solid fa-arrow-up-right-from-square"></i> [Live Application](https://gn-churn.streamlit.app/) |
 <i class="fa-solid fa-file-code"></i> [View the Notebook](gn-churn.ipynb) |
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/gn-churn)
