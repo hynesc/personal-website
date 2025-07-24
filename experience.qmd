@@ -18,6 +18,7 @@ title: "Experience"
 - Partially automated company vendor and transaction breakdown in Excel, enabling detailed spend analysis by vendor, category, and month from year-specific data.
 - Created a cash investment tracker integrating financial institution data to forecast returns for monthly financial planning.
 - Conducted customer churn and point-of-origin analysis using R, identifying key variables influencing retention and lead conversion.
+- Built an interactive churn prediction dashboard with Streamlit to visualize drivers and support retention strategies.
 
 **Undergraduate Research Assistant**
 
