@@ -15,6 +15,8 @@ This project is a comprehensive study of the usability of the camera mode select
 
 The final proposed design, a grid-based menu, proved to be significantly more efficient and intuitive for users in final evaluations.
 
+![A screenshot of the final redesigned iOS camera interface prototype.](thumbnail.png)
+
 ---
 
 ## 1. Needfinding & User Research
