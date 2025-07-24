@@ -1,0 +1,37 @@
+---
+title: "The Effect of Chile’s Neoliberal Reforms in the 1970s"
+author: "Christopher Hynes"
+date: "May 1, 2022"
+categories: [R, Economics, Research, Policy]
+image: thumbnail.png
+---
+
+<i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](chile-neoliberal-reforms.pdf) |
+<i class="fa-solid fa-file-code"></i> [View the R Code (.rmd)](chile-neoliberal-reforms.rmd) |
+<i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/chile-neoliberal-reforms)
+
+## Overview
+
+This project investigates the long-term economic impact of Chile's neoliberal reforms under Augusto Pinochet in the 1970s. The study uses the synthetic control method to estimate how Chile’s GDP per capita would have evolved in the absence of Pinochet’s structural reforms.
+
+The analysis concludes that the reforms had a significant and lasting positive effect on Chile’s economic trajectory. Various robustness checks confirm the credibility of the results.
+
+---
+
+## Methods
+
+The study uses the **synthetic control method** as proposed by Abadie and Gardeazabal (2003), employing a cross-country panel dataset from the World Bank (1960–2019).
+
+Key packages and tools used:
+
+-   `Synth` (R package)
+-   World Bank World Development Indicators
+-   RMarkdown for code and report integration
+
+---
+
+## Key Findings
+
+-   Pinochet’s reforms correspond to a **76% higher GDP per capita** in 2019 compared to the synthetic counterfactual.
+-   The growth effect appears **starting in the early 1990s**, following Chile’s transition to democracy.
+-   Robustness checks across donor pools, predictors, and placebo studies support the validity of the findings.
