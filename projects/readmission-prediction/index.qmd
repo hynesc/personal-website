@@ -4,8 +4,8 @@ author:
   - name: "Christopher Hynes"
   - name: "Felipe Oliveira"
 date: 2025-04-20
-image: content_model.png
-categories: [Python, Machine Learning, Deep Learning, Neural Networks]
+image: thumbnail.png
+categories: [Python, Machine Learning, Deep Learning, Neural Networks, Research]
 ---
 
 <i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](readmission-prediction.pdf) |
