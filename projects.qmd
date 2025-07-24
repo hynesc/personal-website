@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 listing:
-  contents: projects # Look for projects in the 'projects' folder
+  contents: projects/*/index.qmd # Look for projects in 'projects/'. Only include 'index.qmd's
   sort: "date desc"
   type: grid       # Display as a grid
   categories: true # Enable filtering by category
