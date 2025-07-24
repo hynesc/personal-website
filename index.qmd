@@ -6,4 +6,4 @@ I'm a master’s student in computer science at Georgia Tech with a background i
 
 I work with Python, R, and other tools to make sense of data and share findings clearly.
 
-This site showcases some of my projects.
+This site showcases some of my projects. Feel free to explore and get in touch!
