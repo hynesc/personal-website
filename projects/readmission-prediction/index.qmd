@@ -8,6 +8,8 @@ image: thumbnail.png
 categories: [Python, Machine Learning, Deep Learning, Neural Networks, Research]
 ---
 
+A project for my CSE 6250: Big Data for Health Informatics course that investigates the effectiveness of using neural network models to predict hospital readmission rates.
+
 <i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](readmission-prediction.pdf) |
 <i class="fa-solid fa-file-code"></i> [View the Notebook (.ipynb)](readmission-prediction.ipynb) |
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc)
