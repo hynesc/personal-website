@@ -7,7 +7,7 @@ image: thumbnail.png
 ---
 
 <i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](chile-neoliberal-reforms.pdf) |
-<i class="fa-solid fa-file-code"></i> [View the R Code (.rmd)](chile-neoliberal-reforms.rmd) |
+<i class="fa-solid fa-file-code"></i> [View the R Code (.rmd)](chile-neoliberal-reforms.Rmd) |
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/chile-neoliberal-reforms)
 
 ## Overview
