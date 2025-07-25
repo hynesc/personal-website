@@ -9,7 +9,7 @@ image: thumbnail.png
 A web app that performs real-time NLP sentiment analysis on movie reviews, demonstrating a full workflow from data preparation to model tuning and deployment.
 
 <i class="fa-solid fa-arrow-up-right-from-square"></i> [Live Application](https://imdb-sentiment-prediction.streamlit.app/) |
-<i class="fa-solid fa-file-code"></i> [View the Notebook](imdb-sentiment.ipynb) |
+<i class="fa-solid fa-file-code"></i> [View the Notebook](notebook.ipynb) |
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/imdb-sentiment)
 
 ## Project Overview
