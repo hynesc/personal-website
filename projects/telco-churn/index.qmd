@@ -9,7 +9,7 @@ image: thumbnail.png
 An end-to-end machine learning project that involves cleaning, training, and deploying an interactive web application to predict customer churn on the classic Telco dataset.
 
 <i class="fa-solid fa-arrow-up-right-from-square"></i> [Live Application](https://telco-churn-analysis.streamlit.app/) |
-<i class="fa-solid fa-file-code"></i> [View the Notebook](telco-churn.ipynb) |
+<i class="fa-solid fa-file-code"></i> [View the Notebook](notebook.ipynb) |
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/telco-churn)
 
 ## Project Overview
