@@ -8,7 +8,7 @@ image: thumbnail.png
 
 A project for my CS 7646: Machine Learning for Trading course where I built and evaluated an algorithmic trading strategy using a custom-implemented bagged random forest model.
 
-<i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](trading-strategy-learner.pdf)
+<i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](paper.pdf)
 
 * **Code Access:** Due to Georgia Tech academic policy, the source code for this project cannot be made public. However, I am happy to provide it and discuss the implementation upon request. Please feel free to contact me.
 
