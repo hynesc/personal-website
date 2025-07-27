@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Chile’s Neoliberal Reforms in the 1970s"
 author: "Christopher Hynes"
-date: "May 1, 2022"
+date: "2022-05-01"
 description: "My undergraduate honors thesis, which uses the synthetic control method in R to estimate the long-term economic impact of Chile's structural reforms in the 1970s."
 image: thumbnail.png
 categories: [R, Economics, Research, Policy]
