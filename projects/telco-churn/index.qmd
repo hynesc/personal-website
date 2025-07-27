@@ -2,11 +2,10 @@
 title: "Telco Customer Churn Prediction"
 author: "Christopher Hynes"
 date: "2025-07-14"
+description: "An end-to-end machine learning project that involves cleaning, training, and deploying an interactive web application to predict customer churn on the classic Telco dataset."
 categories: [Python, Machine Learning, Predictive Modeling, Web App]
 image: thumbnail.png
 ---
-
-An end-to-end machine learning project that involves cleaning, training, and deploying an interactive web application to predict customer churn on the classic Telco dataset.
 
 <i class="fa-solid fa-arrow-up-right-from-square"></i> [Live Application](https://telco-churn-analysis.streamlit.app/) |
 <i class="fa-solid fa-file-code"></i> [View the Notebook](notebook.ipynb) |
