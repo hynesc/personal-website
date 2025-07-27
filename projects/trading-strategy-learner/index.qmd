@@ -2,11 +2,10 @@
 title: "Market Trading Strategy Learner"
 author: "Christopher Hynes"
 date: "2024-04-14"
+description: "A project for my CS 7646: Machine Learning for Trading course where I built and evaluated an algorithmic trading strategy using a custom-implemented bagged random forest model."
 categories: [Python, Machine Learning, Predictive Modeling, Finance]
 image: thumbnail.png
 ---
-
-A project for my CS 7646: Machine Learning for Trading course where I built and evaluated an algorithmic trading strategy using a custom-implemented bagged random forest model.
 
 <i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](paper.pdf)
 
