@@ -2,11 +2,10 @@
 title: "Streamlining Camera Mode Selection in iOS"
 author: "Christopher Hynes"
 date: "2024-11-4"
+description: "A complete UI/UX project that follows a user-centered design process to research, prototype, and evaluate a more efficient and intuitive camera mode selector for iOS."
 categories: [UI/UX, Figma]
 image: thumbnail.png
 ---
-
-A complete UI/UX project that follows a user-centered design process to research, prototype, and evaluate a more efficient and intuitive camera mode selector for iOS.
 
 <i class="fa-solid fa-file-pdf"></i> [Read the Paper (PDF)](paper.pdf) |
 <i class="fa-solid fa-display"></i> <a href="https://www.figma.com/proto/BnU5m8xvTo40yhVUYqnlWP/iPhone-Grid-Menu-Prototype">View Interactive Prototype (Figma)</a>
