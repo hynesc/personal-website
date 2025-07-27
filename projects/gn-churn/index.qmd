@@ -2,11 +2,10 @@
 title: "GreyNoise Customer Churn Predictor"
 author: "Christopher Hynes"
 date: "2025-07-18"
+description: "A Python-based machine learning application deployed with Streamlit to predict customer churn in real-time for GreyNoise Intelligence."
 categories: [Python, Machine Learning, Predictive Modeling, Web App]
 image: thumbnail.png
 ---
-
-A Python-based machine learning application deployed with Streamlit to predict customer churn in real-time for GreyNoise Intelligence.
 
 <i class="fa-solid fa-arrow-up-right-from-square"></i> [Live Application](https://gn-churn.streamlit.app/) |
 <i class="fa-solid fa-file-code"></i> [View the Notebook](notebook.ipynb) |
