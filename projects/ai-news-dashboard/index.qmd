@@ -5,16 +5,10 @@ date: "July 25, 2025"
 description: "An automated dashboard for tracking and analyzing global discourse on AI safety, alignment, and policy, built with Python, Streamlit, and GitHub Actions."
 image: "thumbnail.png"
 categories: [Python, NLP, Machine Learning, Predictive Modeling, Web App]
-project:
-  type: "default"
-  links:
-    - icon: "globe"
-      name: "Live Dashboard"
-      url: "https://ai-news-dashboard.streamlit.app/"
-    - icon: "github"
-      name: "GitHub Repo"
-      url: "https://github.com/hynesc/ai-news-dashboard"
 ---
+
+<i class="fa-solid fa-file-code"></i> [View the notebook (.ipynb)](notebook.ipynb) |
+<i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/ai-news-dashboard)
 
 ## Project Overview
 
@@ -24,51 +18,43 @@ The goal was to create a tool that could provide real-time insights into key que
 
 ---
 
-### Live Interactive Dashboard
+## Technical Deep Dive
 
-Below is the live, interactive dashboard, hosted on Streamlit Community Cloud. The data is updated automatically every 24 hours.
-
-```{=html}
-<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
-<iframe
-  src="[https://ai-news-dashboard.streamlit.app/?embed=true](https://ai-news-dashboard.streamlit.app/?embed=true)"
-  height="800"
-  style="width:100%; border:none;"
-></iframe>
-</div>
-
-Technical Deep Dive
 This project was built as an end-to-end data pipeline, from automated data collection to interactive visualization.
 
-1. Automated Data Pipeline
+### 1. Automated Data Pipeline
+
 The backbone of the project is a data pipeline orchestrated by GitHub Actions.
 
-Scheduled Execution: A CRON job triggers the news_pipeline.py script every 24 hours.
+- **Scheduled Execution**: A CRON job triggers the `news_pipeline.py` script every 24 hours.
+- **Data Collection**: The script calls the NewsAPI using a carefully constructed search query to fetch the latest articles. The query is designed to be highly specific, targeting key phrases like "AI safety", "AI alignment", "EU AI Act", and associated concepts like existential risk, interpretability, and red-teaming.
+- **Data Persistence**: The fetched and analyzed data is appended to a central `news_data.csv` file within the repository. Duplicates are removed to maintain a clean, growing dataset over time.
+- **Automated Commit**: The GitHub Action commits the updated CSV file back to the repository, creating a version-controlled history of the dataset.
 
-Data Collection: The script calls the NewsAPI using a carefully constructed search query to fetch the latest articles. The query is designed to be highly specific, targeting key phrases like "AI safety", "AI alignment", "EU AI Act", and associated concepts like existential risk, interpretability, and red-teaming.
+### 2. Natural Language Processing (NLP)
 
-Data Persistence: The fetched and analyzed data is appended to a central news_data.csv file within the repository. Duplicates are removed to maintain a clean, growing dataset over time.
+- **Sentiment Analysis**: To gauge the tone of the discourse, I used NLTK’s VADER (Valence Aware Dictionary and sEntiment Reasoner). VADER was chosen over simpler models like TextBlob because it is specifically tuned for news and social media text, allowing for a more nuanced analysis of headlines and content snippets. Analysis is performed on the combined title and description for richer context.
 
-Automated Commit: The GitHub Action commits the updated CSV file back to the repository, creating a version-controlled history of the dataset.
+- **Key Concept Extraction**: To identify the most prominent topics, I used n-gram analysis. By extracting the most frequent two- and three-word phrases (bi-grams and tri-grams) from article titles, the dashboard can surface specific, recurring concepts like "generative ai" or "big tech" instead of just single, disconnected keywords.
 
-2. Natural Language Processing (NLP)
-Sentiment Analysis: To gauge the tone of the discourse, I used NLTK's VADER (Valence Aware Dictionary and sEntiment Reasoner). VADER was chosen over simpler models like TextBlob because it is specifically tuned for news and social media text, allowing for a more nuanced analysis of headlines and content snippets. Analysis is performed on the combined title and description for richer context.
+### 3. Interactive Dashboard
 
-Key Concept Extraction: To identify the most prominent topics, I used n-gram analysis. By extracting the most frequent two- and three-word phrases (bi-grams and tri-grams) from article titles, the dashboard can surface specific, recurring concepts like "generative ai" or "big tech" instead of just single, disconnected keywords.
-
-3. Interactive Dashboard
 The frontend is a Streamlit application designed for clarity and interactivity.
 
-Data Visualization: Charts are generated with Plotly Express to show sentiment trends over time and distributions.
+- **Data Visualization**: Charts are generated with Plotly Express to show sentiment trends over time and distributions.
+- **Dynamic Filtering**: Users can filter the entire dashboard by time period (e.g., Last 7 Days, Last 30 Days), allowing for both short-term and long-term analysis.
+- **Deep Dive Feature**: The dashboard allows users to select a key concept (n-gram) and instantly see all the articles related to it, providing a seamless way to explore the data.
 
-Dynamic Filtering: Users can filter the entire dashboard by time period (e.g., Last 7 Days, Last 30 Days), allowing for both short-term and long-term analysis.
+---
 
-Deep Dive Feature: The dashboard allows users to select a key concept (n-gram) and instantly see all the articles related to it, providing a seamless way to explore the data.
+## Challenges & Future Work
 
-Challenges & Future Work
-API Limitations: The current implementation relies on the NewsAPI's free tier, which provides article snippets rather than full text. This limits the depth of the NLP analysis. A future enhancement would be to integrate a full-text scraping library (like newspaper3k or BeautifulSoup) to perform analysis on the complete article content for greater accuracy.
+- **API Limitations**: The current implementation relies on the NewsAPI’s free tier, which provides article snippets rather than full text. This limits the depth of the NLP analysis. A future enhancement would be to integrate a full-text scraping library (like `newspaper3k` or `BeautifulSoup`) to perform analysis on the complete article content for greater accuracy.
 
-Advanced Topic Modeling: While n-grams are effective for headlines, a more advanced topic modeling technique like BERTopic could be implemented on full-text data to uncover more subtle, semantically-related themes.
+- **Advanced Topic Modeling**: While n-grams are effective for headlines, a more advanced topic modeling technique like BERTopic could be implemented on full-text data to uncover more subtle, semantically-related themes.
 
-Conclusion
-This project demonstrates an end-to-end data science workflow, from automated data acquisition and NLP analysis to deployment of an interactive web application. By focusing on the strategic domain of AI safety and governance, it serves
+---
+
+## Conclusion
+
+This project demonstrates an end-to-end data science workflow, from automated data acquisition and NLP analysis to deployment of an interactive web application. By focusing on the strategic domain of AI safety and governance, it serves as a valuable tool for anyone looking to understand the key trends and narratives shaping the future of artificial intelligence.
