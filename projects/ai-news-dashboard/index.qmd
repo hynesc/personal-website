@@ -8,7 +8,7 @@ categories: [Python, NLP, Machine Learning, Predictive Modeling, Web App]
 ---
 
 <i class="fa-solid fa-arrow-up-right-from-square"></i> [Live Application](https://ai-news-dashboard.streamlit.app/) |
-<i class="fa-solid fa-file-code"></i> [View the source code (.py)](code.py) |
+<i class="fa-solid fa-file-code"></i> [View the source code (.py)](https://github.com/hynesc/ai-news-dashboard/blob/main/news_pipeline.py) |
 <i class="fa-brands fa-github"></i> [GitHub Repository](https://github.com/hynesc/ai-news-dashboard)
 
 ## Project Overview
