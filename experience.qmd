@@ -49,7 +49,7 @@ title: "Experience"
 ## Technical Skills
 
 - **Languages & Databases**: Python, R, SQL (Proficient); Java, Stata, SAS (Familiar)
-- **Libraries & Frameworks**: tidyverse, NumPy, pandas, matplotlib, PyTorch, Streamlit; Familiar with PySpark, Hadoop (Pig, Hive)
+- **Libraries & Frameworks**: tidyverse, NumPy, pandas, matplotlib, PyTorch, Streamlit, Hugging Face Transformers; Familiar with PySpark, Hadoop (Pig, Hive)
 - **Developer Tools**: Git, Markdown, Google Colab, Jupyter Notebook
 - **Visualization & Software**: Microsoft Office Suite; Familiar with Tableau, Figma
-- **Data Science & ML**: Statistical analysis, hypothesis testing, A/B testing, forecasting, prediction, supervised and unsupervised learning (linear/logistic regression, decision trees, KNN, SVM, clustering, neural networks)
+- **Data Science & ML**: Statistical analysis, hypothesis testing, A/B testing, forecasting, prediction, supervised and unsupervised learning (linear/logistic regression, decision trees, KNN, SVM, clustering, neural networks, natural language processing)
